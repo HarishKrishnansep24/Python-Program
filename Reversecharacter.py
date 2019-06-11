@@ -1,2 +1,6 @@
 n=input()
-print(n[::-1])
+s=''
+for i in n:
+    s=i+s
+print(s)
+
