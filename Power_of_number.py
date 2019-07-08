@@ -1,0 +1,2 @@
+n=list(input().split())
+print(int(n[0])**int(n[1]))
